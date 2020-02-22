@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Migraine Manager began from a desire to help myself and members of my family to manage chronic migraines. This app allows users to track and personalize their migraine episodes, triggers, and symptoms. Analysis of emerging patterns in triggers and symptoms assists users in managing and preventing future attacks.
 ### Features
-Include Features here
+User login: Users will be able to register an account and log in to the application
+Personalized Symptoms and Triggers: Each user will be provided a defult list of symptoms and triggers, and can personalize these lists by adding or removing items
 ### Technologies
-Include Technologies here
+Java
+JavaScript
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
+Bootstrap
 ### What I'll Have to Learn
-Include what you will need to learn here
+Import statistic and/or table API
+Import glyphicons
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/pbhTdvq6/migraine-tracker
