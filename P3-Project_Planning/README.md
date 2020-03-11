@@ -22,4 +22,4 @@ https://trello.com/b/pbhTdvq6/migraine-tracker
 
 ### Project Repo Link
 
-https://github.com/ajones14/MigraineManager
+https://github.com/awiggins14/MigraineManager
