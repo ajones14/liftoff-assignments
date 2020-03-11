@@ -10,10 +10,16 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+<ul>
+  <li><a href="https://github.com/ajones14/MigraineManager/blob/master/src/main/resources/static/images/wireframes/home.jpg">Home</a></li>
+  <li><a href="https://github.com/ajones14/MigraineManager/blob/master/src/main/resources/static/images/wireframes/stats.jpg">Stats</a></li>
+  <li><a href="https://github.com/ajones14/MigraineManager/blob/master/src/main/resources/static/images/wireframes/triggersAndSymptoms.jpg">Symptoms and Triggers</a></li>
+</ul>
+
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/pbhTdvq6/migraine-tracker
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/ajones14/MigraineManager
